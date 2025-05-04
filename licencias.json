@@ -1,12 +1,4 @@
 {
-    "771FC92D-DDDC-0349-2F6D-60CF84769E5B": {
-      "status": "approved",
-      "nombre": "Manguita"
-    }
-  }
-{
-    "4C4C4544-0043-4210-8037-B1C04F395932": {
-      "status": "approved",
-      "nombre": "jesus"
-    }
-  }
+  "771FC92D-DDDC-0349-2F6D-602CF84769E5B": { "status": "approved", "nombre": "Manguita" },
+  "4C4C4544-0043-4210-8037-B1C04F395932": { "status": "approved", "nombre": "JESUS" }
+}
